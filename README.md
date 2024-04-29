@@ -14,3 +14,4 @@ I wish you a pleasant game with our bot!
 
 START GAME - https://www.youtube.com/watch?v=oJE3h2fAsTw
 BOT FARM  - https://www.youtube.com/watch?v=SHBBdBHDZfA
+Now bot dont work, video banned. This bot is just a set of actions to attack creeps/kill forest creeps
